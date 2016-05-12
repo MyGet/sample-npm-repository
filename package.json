@@ -1,6 +1,6 @@
 {
   "name": "sample-npm",
-  "version": "1.1.0-beta.76",
+  "version": "1.1.0-beta.77",
   "description": "Sample containing NPM application.",
   "main": "index.js",
   "scripts": {
