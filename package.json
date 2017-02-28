@@ -17,7 +17,7 @@
     "myget"
   ],
   "author": "Maarten Balliauw <maarten@myget.org>",
-  "license": "Apache-2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/MyGet/sample-npm-repository/issues"
   },
